@@ -1,0 +1,14 @@
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\bin\Debug\net9.0\AulaPolimorfismo.exe
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\bin\Debug\net9.0\AulaPolimorfismo.deps.json
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\bin\Debug\net9.0\AulaPolimorfismo.runtimeconfig.json
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\bin\Debug\net9.0\AulaPolimorfismo.dll
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\bin\Debug\net9.0\AulaPolimorfismo.pdb
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\obj\Debug\net9.0\AulaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\obj\Debug\net9.0\AulaPolimorfismo.AssemblyInfoInputs.cache
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\obj\Debug\net9.0\AulaPolimorfismo.AssemblyInfo.cs
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\obj\Debug\net9.0\AulaPolimorfismo.csproj.CoreCompileInputs.cache
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\obj\Debug\net9.0\AulaPolimorfismo.dll
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\obj\Debug\net9.0\refint\AulaPolimorfismo.dll
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\obj\Debug\net9.0\AulaPolimorfismo.pdb
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\obj\Debug\net9.0\AulaPolimorfismo.genruntimeconfig.cache
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaPolimorfismo\obj\Debug\net9.0\ref\AulaPolimorfismo.dll

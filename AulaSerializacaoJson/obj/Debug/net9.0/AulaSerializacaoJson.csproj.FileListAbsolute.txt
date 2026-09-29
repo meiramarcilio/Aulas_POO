@@ -1,0 +1,14 @@
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\bin\Debug\net9.0\AulaSerializacaoJson.exe
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\bin\Debug\net9.0\AulaSerializacaoJson.deps.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\bin\Debug\net9.0\AulaSerializacaoJson.runtimeconfig.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\bin\Debug\net9.0\AulaSerializacaoJson.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\bin\Debug\net9.0\AulaSerializacaoJson.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\obj\Debug\net9.0\AulaSerializacaoJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\obj\Debug\net9.0\AulaSerializacaoJson.AssemblyInfoInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\obj\Debug\net9.0\AulaSerializacaoJson.AssemblyInfo.cs
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\obj\Debug\net9.0\AulaSerializacaoJson.csproj.CoreCompileInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\obj\Debug\net9.0\AulaSerializacaoJson.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\obj\Debug\net9.0\refint\AulaSerializacaoJson.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\obj\Debug\net9.0\AulaSerializacaoJson.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\obj\Debug\net9.0\AulaSerializacaoJson.genruntimeconfig.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacaoJson\obj\Debug\net9.0\ref\AulaSerializacaoJson.dll

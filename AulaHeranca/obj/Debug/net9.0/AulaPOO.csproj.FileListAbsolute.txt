@@ -1,0 +1,14 @@
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\bin\Debug\net9.0\AulaPOO.exe
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\bin\Debug\net9.0\AulaPOO.deps.json
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\bin\Debug\net9.0\AulaPOO.runtimeconfig.json
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\bin\Debug\net9.0\AulaPOO.dll
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\bin\Debug\net9.0\AulaPOO.pdb
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\obj\Debug\net9.0\AulaPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\obj\Debug\net9.0\AulaPOO.AssemblyInfoInputs.cache
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\obj\Debug\net9.0\AulaPOO.AssemblyInfo.cs
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\obj\Debug\net9.0\AulaPOO.csproj.CoreCompileInputs.cache
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\obj\Debug\net9.0\AulaPOO.dll
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\obj\Debug\net9.0\refint\AulaPOO.dll
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\obj\Debug\net9.0\AulaPOO.pdb
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\obj\Debug\net9.0\AulaPOO.genruntimeconfig.cache
+D:\OneDrive\Área de Trabalho\AulaPOO\AulaPOO\obj\Debug\net9.0\ref\AulaPOO.dll

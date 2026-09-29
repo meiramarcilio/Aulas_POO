@@ -1,0 +1,14 @@
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.exe
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.deps.json
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.runtimeconfig.json
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.dll
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.pdb
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.AssemblyInfoInputs.cache
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.AssemblyInfo.cs
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.csproj.CoreCompileInputs.cache
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.dll
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\refint\AulaClasseAbstrata.dll
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.pdb
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.genruntimeconfig.cache
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\ref\AulaClasseAbstrata.dll

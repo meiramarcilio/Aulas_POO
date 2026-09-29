@@ -1,0 +1,14 @@
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.exe
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.deps.json
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.runtimeconfig.json
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.dll
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.pdb
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.AssemblyInfoInputs.cache
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.AssemblyInfo.cs
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.csproj.CoreCompileInputs.cache
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.dll
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\refint\AulaInterface.dll
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.pdb
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.genruntimeconfig.cache
+D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\ref\AulaInterface.dll

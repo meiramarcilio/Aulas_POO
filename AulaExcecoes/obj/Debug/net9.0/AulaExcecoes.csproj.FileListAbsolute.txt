@@ -1,0 +1,14 @@
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\bin\Debug\net9.0\AulaExcecoes.exe
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\bin\Debug\net9.0\AulaExcecoes.deps.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\bin\Debug\net9.0\AulaExcecoes.runtimeconfig.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\bin\Debug\net9.0\AulaExcecoes.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\bin\Debug\net9.0\AulaExcecoes.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.AssemblyInfoInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.AssemblyInfo.cs
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.csproj.CoreCompileInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\refint\AulaExcecoes.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.genruntimeconfig.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\ref\AulaExcecoes.dll
