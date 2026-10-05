@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\AulaSerializacaoJson.csproj": {}
+    "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\AulaSerializacaoJson.csproj": {}
   },
   "projects": {
-    "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\AulaSerializacaoJson.csproj": {
+    "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\AulaSerializacaoJson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\AulaSerializacaoJson.csproj",
+        "projectUniqueName": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\AulaSerializacaoJson.csproj",
         "projectName": "AulaSerializacaoJson",
-        "projectPath": "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\AulaSerializacaoJson.csproj",
+        "projectPath": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\AulaSerializacaoJson.csproj",
         "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-        "outputPath": "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\obj\\",
+        "outputPath": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaSerializacaoJson\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
