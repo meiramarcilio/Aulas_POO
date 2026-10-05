@@ -31,7 +31,7 @@
                     break;
                 case 3:
                     Emprestimo emprestimo = new Emprestimo();
-                    emprestimo.Cadastrar();
+                    emprestimo.Cadastrar(usuarios, livros);
                     emprestimos.Add(emprestimo);
                     break;
                 case 4:
