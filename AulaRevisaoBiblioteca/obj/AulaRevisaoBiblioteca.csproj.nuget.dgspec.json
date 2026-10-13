@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\AulaRevisaoBiblioteca.csproj": {}
+    "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\AulaRevisaoBiblioteca.csproj": {}
   },
   "projects": {
-    "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\AulaRevisaoBiblioteca.csproj": {
+    "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\AulaRevisaoBiblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\AulaRevisaoBiblioteca.csproj",
+        "projectUniqueName": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\AulaRevisaoBiblioteca.csproj",
         "projectName": "AulaRevisaoBiblioteca",
-        "projectPath": "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\AulaRevisaoBiblioteca.csproj",
+        "projectPath": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\AulaRevisaoBiblioteca.csproj",
         "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-        "outputPath": "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\obj\\",
+        "outputPath": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaRevisaoBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
