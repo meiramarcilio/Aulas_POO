@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kNxpgzQKMTk=",
+  "dgSpecHash": "Smh9xKJgSvk=",
   "success": true,
   "projectFilePath": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaExcecoes\\AulaExcecoes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.20\\microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.20\\microsoft.windowsdesktop.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.20\\microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.20\\microsoft.netcore.app.host.win-x64.9.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

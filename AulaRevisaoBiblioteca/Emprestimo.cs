@@ -5,8 +5,8 @@ public class Emprestimo
     public int IdLivro { get; set; }
     public DateTime DataEmprestimo { get; set; }
     public DateTime DataDevolucao { get; set; }
-    public Usuario Usuario { get; set; }
-    public Livro Livro { get; set; }
+    public Usuario Usuario { get; set; } = null!;
+    public Livro Livro { get; set; } = null!;
 
     public Emprestimo()
     {
@@ -26,7 +26,7 @@ public class Emprestimo
     {
         Console.WriteLine("Realizando empréstimo...");
         Console.Write("Digite o E-mail do usuário: ");
-        string emailUsuario = Console.ReadLine();
+        string emailUsuario = Console.ReadLine() ?? string.Empty;
         // Checar se o usuário existe na lista:
         var objUsuario = usuarios.Find(u => u.Email == emailUsuario);
         if (objUsuario == null)
@@ -37,7 +37,7 @@ public class Emprestimo
         }
         // Tenta localizar o livro:
         Console.Write("Digite o Titulo do livro: ");
-        string tituloLivro = Console.ReadLine();
+        string tituloLivro = Console.ReadLine() ?? string.Empty;
         var objLivro = livros.Find(l => l.Titulo == tituloLivro);
         if (objLivro == null)
         {

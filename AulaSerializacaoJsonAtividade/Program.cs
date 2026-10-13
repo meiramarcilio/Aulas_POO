@@ -1,5 +1,5 @@
 ﻿Console.Write("Qual tipo de Arquivo você deseja escolher? 1-Json, 2-XML: ");
-int opcao = int.Parse(Console.ReadLine());
+int opcao = int.Parse(Console.ReadLine() ?? "0");
 Arquivo arquivo;
 switch (opcao)
 {

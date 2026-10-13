@@ -1,9 +1,9 @@
 public class Animal
 {
-    public string Nome {get; set;}
-    public string Especie {get; set;}
-    public int Idade {get; set;}
-    public bool EstaDormindo {get; set;}
+    public string Nome { get; set; } = string.Empty;
+    public string Especie { get; set; } = string.Empty;
+    public int Idade { get; set; }
+    public bool EstaDormindo { get; set; }
 
     public Animal()
     {        

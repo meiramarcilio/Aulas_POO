@@ -1,9 +1,9 @@
 abstract class Veiculo
 {
-    public string Modelo { get; set; }
-    public string Marca { get; set; }
+    public string Modelo { get; set; } = string.Empty;
+    public string Marca { get; set; } = string.Empty;
     public int Ano { get; set; }
-    public string Combustivel { get; set; }
+    public string Combustivel { get; set; } = string.Empty;
 
     public Veiculo(string modelo, string marca, int ano, string combustivel)
     {

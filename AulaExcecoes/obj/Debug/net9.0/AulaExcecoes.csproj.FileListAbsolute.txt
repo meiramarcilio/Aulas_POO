@@ -12,3 +12,4 @@ D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\refint\Au
 D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.pdb
 D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.genruntimeconfig.cache
 D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\ref\AulaExcecoes.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaExcecoes\obj\Debug\net9.0\AulaExcecoes.sourcelink.json

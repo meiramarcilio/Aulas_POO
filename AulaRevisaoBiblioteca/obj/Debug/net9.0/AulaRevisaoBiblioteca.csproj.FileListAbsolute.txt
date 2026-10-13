@@ -1,0 +1,15 @@
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\bin\Debug\net9.0\AulaRevisaoBiblioteca.exe
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\bin\Debug\net9.0\AulaRevisaoBiblioteca.deps.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\bin\Debug\net9.0\AulaRevisaoBiblioteca.runtimeconfig.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\bin\Debug\net9.0\AulaRevisaoBiblioteca.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\bin\Debug\net9.0\AulaRevisaoBiblioteca.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\AulaRevisaoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\AulaRevisaoBiblioteca.AssemblyInfoInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\AulaRevisaoBiblioteca.AssemblyInfo.cs
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\AulaRevisaoBiblioteca.csproj.CoreCompileInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\AulaRevisaoBiblioteca.sourcelink.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\AulaRevisaoBiblioteca.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\refint\AulaRevisaoBiblioteca.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\AulaRevisaoBiblioteca.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\AulaRevisaoBiblioteca.genruntimeconfig.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaRevisaoBiblioteca\obj\Debug\net9.0\ref\AulaRevisaoBiblioteca.dll

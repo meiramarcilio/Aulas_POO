@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\AulaWindowsForm1.csproj": {}
+    "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\AulaWindowsForm1.csproj": {}
   },
   "projects": {
-    "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\AulaWindowsForm1.csproj": {
+    "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\AulaWindowsForm1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\AulaWindowsForm1.csproj",
+        "projectUniqueName": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\AulaWindowsForm1.csproj",
         "projectName": "AulaWindowsForm1",
-        "projectPath": "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\AulaWindowsForm1.csproj",
+        "projectPath": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\AulaWindowsForm1.csproj",
         "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-        "outputPath": "d:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\obj\\",
+        "outputPath": "D:\\OneDrive\\IFRN\\_POO\\POO 2025\\Aulas_POO\\AulaWindowsForm1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,7 +29,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0-windows7.0": {
+          "net9.0-windows": {
+            "framework": "net9.0-windows7.0",
             "targetAlias": "net9.0-windows",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
-        "net9.0-windows7.0": {
+        "net9.0-windows": {
+          "framework": "net9.0-windows7.0",
           "targetAlias": "net9.0-windows",
           "imports": [
             "net461",
@@ -60,6 +62,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.20, 9.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -68,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

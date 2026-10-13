@@ -1,0 +1,15 @@
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\bin\Debug\net9.0-windows\AulaWindowsForm1.exe
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\bin\Debug\net9.0-windows\AulaWindowsForm1.deps.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\bin\Debug\net9.0-windows\AulaWindowsForm1.runtimeconfig.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\bin\Debug\net9.0-windows\AulaWindowsForm1.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\bin\Debug\net9.0-windows\AulaWindowsForm1.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\AulaWindowsForm1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\AulaWindowsForm1.AssemblyInfoInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\AulaWindowsForm1.AssemblyInfo.cs
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\AulaWindowsForm1.csproj.CoreCompileInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\AulaWindowsForm1.sourcelink.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\AulaWindowsForm1.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\refint\AulaWindowsForm1.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\AulaWindowsForm1.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\AulaWindowsForm1.genruntimeconfig.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaWindowsForm1\obj\Debug\net9.0-windows\ref\AulaWindowsForm1.dll

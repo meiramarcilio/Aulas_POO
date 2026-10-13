@@ -1,6 +1,6 @@
 public class Animal
 {
-	public string Nome {get; set;}
+	public string Nome { get; set; } = string.Empty;
 	public virtual void FazerSom()
 	{
 		Console.WriteLine("O animal faz um som");

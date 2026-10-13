@@ -12,3 +12,18 @@ D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\refi
 D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.pdb
 D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.genruntimeconfig.cache
 D:\OneDrive\Área de Trabalho\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\ref\AulaClasseAbstrata.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.exe
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.deps.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.runtimeconfig.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\bin\Debug\net9.0\AulaClasseAbstrata.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.AssemblyInfoInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.AssemblyInfo.cs
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.csproj.CoreCompileInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.sourcelink.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\refint\AulaClasseAbstrata.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\AulaClasseAbstrata.genruntimeconfig.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaClasseAbstrata\obj\Debug\net9.0\ref\AulaClasseAbstrata.dll

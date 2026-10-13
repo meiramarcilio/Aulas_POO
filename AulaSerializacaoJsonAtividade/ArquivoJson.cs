@@ -10,7 +10,7 @@ public class ArquivoJson : Arquivo
         Caminho = Environment.GetFolderPath
             (Environment.SpecialFolder.MyDocuments) +
             "\\book.json";
-        File.WriteAllText(path, jsonString);
+        File.WriteAllText(Caminho, jsonString);
         return Caminho;
     }
 
@@ -20,7 +20,7 @@ public class ArquivoJson : Arquivo
             (Environment.SpecialFolder.MyDocuments) +
             "\\weatherforecast.json";
         string jsonString = File.ReadAllText(Caminho);
-        var obj = JsonSerializer.Deserialize<Book>(jsonString);
+        var obj = JsonSerializer.Deserialize<Book>(jsonString) ?? new Book();
         Console.WriteLine($"Book title: {obj.title}");
     }
 }

@@ -1,6 +1,6 @@
 abstract class Forma
 {
-    public string Cor { get; set; }
+    public string Cor { get; set; } = string.Empty;
 
     public void Pintar()
     {

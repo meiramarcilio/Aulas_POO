@@ -12,3 +12,4 @@ D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacao\obj\Debug\net9.0\refin
 D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacao\obj\Debug\net9.0\AulaSerializacao.pdb
 D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacao\obj\Debug\net9.0\AulaSerializacao.genruntimeconfig.cache
 D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacao\obj\Debug\net9.0\ref\AulaSerializacao.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaSerializacao\obj\Debug\net9.0\AulaSerializacao.sourcelink.json

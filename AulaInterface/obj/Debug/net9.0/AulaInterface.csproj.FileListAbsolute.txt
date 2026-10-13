@@ -12,3 +12,18 @@ D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\refint\Au
 D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.pdb
 D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.genruntimeconfig.cache
 D:\OneDrive\Área de Trabalho\Aulas_POO\AulaInterface\obj\Debug\net9.0\ref\AulaInterface.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.exe
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.deps.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.runtimeconfig.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\bin\Debug\net9.0\AulaInterface.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.AssemblyInfoInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.AssemblyInfo.cs
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.csproj.CoreCompileInputs.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.sourcelink.json
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\refint\AulaInterface.dll
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.pdb
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\AulaInterface.genruntimeconfig.cache
+D:\OneDrive\IFRN\_POO\POO 2025\Aulas_POO\AulaInterface\obj\Debug\net9.0\ref\AulaInterface.dll

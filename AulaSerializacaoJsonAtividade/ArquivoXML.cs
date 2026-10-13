@@ -5,7 +5,7 @@ public class ArquivoXML : Arquivo
     {
         Book book = new Book() { title = "Harry Potter 1" };
         // Prepara objeto serializador:
-        XmlSerializer writer = new XmlSerializer(typeof(book));
+        XmlSerializer writer = new XmlSerializer(typeof(Book));
         Caminho = Environment.GetFolderPath
             (Environment.SpecialFolder.MyDocuments) + "\\livro.xml";
         FileStream arquivoXML = File.Create(Caminho);
@@ -24,11 +24,10 @@ public class ArquivoXML : Arquivo
             //Prepara o arquivo XML
             Caminho = Environment.GetFolderPath
                 (Environment.SpecialFolder.MyDocuments) + "\\livro.xml";
-            StreamReader arquivoXML = new StreamReader(Caminho);
+            using StreamReader arquivoXML = new StreamReader(Caminho);
             // Deserialização do XML para objeto:
-            Book book = (Book)reader.Deserialize(arquivoXML);
-            Console.WriteLine($"Livro: {book.title}");
-            arquivoXML.Close();
+            Book? livro = reader.Deserialize(arquivoXML) as Book ?? new Book();
+            Console.WriteLine($"Livro: {livro.title}");
         }
         catch (System.IO.FileNotFoundException)
         {
