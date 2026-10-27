@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\marci\\source\\repos\\AulaWinFormsMDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2AA44D-E364-4FE9-80D3-31F3471C4394}|AulaWinFormsMDI.csproj|d:\\users\\marci\\source\\repos\\aulawinformsmdi\\frmdesserializador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2AA44D-E364-4FE9-80D3-31F3471C4394}|AulaWinFormsMDI.csproj|solutionrelative:frmdesserializador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2AA44D-E364-4FE9-80D3-31F3471C4394}|AulaWinFormsMDI.csproj|d:\\users\\marci\\source\\repos\\aulawinformsmdi\\frmdesserializador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F2AA44D-E364-4FE9-80D3-31F3471C4394}|AulaWinFormsMDI.csproj|solutionrelative:frmdesserializador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2AA44D-E364-4FE9-80D3-31F3471C4394}|AulaWinFormsMDI.csproj|d:\\users\\marci\\source\\repos\\aulawinformsmdi\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2AA44D-E364-4FE9-80D3-31F3471C4394}|AulaWinFormsMDI.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2AA44D-E364-4FE9-80D3-31F3471C4394}|AulaWinFormsMDI.csproj|d:\\users\\marci\\source\\repos\\aulawinformsmdi\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F2AA44D-E364-4FE9-80D3-31F3471C4394}|AulaWinFormsMDI.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "D:\\Users\\marci\\source\\repos\\AulaWinFormsMDI\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "D:\\Users\\marci\\source\\repos\\AulaWinFormsMDI\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:10:27.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\marci\\source\\repos\\AulaWinFormsMDI\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "D:\\Users\\marci\\source\\repos\\AulaWinFormsMDI\\FrmPrincipal.cs [Projeto]",
+              "RelativeToolTip": "FrmPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:10:23.973Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDesserializador.cs",
+              "DocumentMoniker": "D:\\Users\\marci\\source\\repos\\AulaWinFormsMDI\\FrmDesserializador.cs",
+              "RelativeDocumentMoniker": "FrmDesserializador.cs",
+              "ToolTip": "D:\\Users\\marci\\source\\repos\\AulaWinFormsMDI\\FrmDesserializador.cs",
+              "RelativeToolTip": "FrmDesserializador.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:05:56.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDesserializador.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\marci\\source\\repos\\AulaWinFormsMDI\\FrmDesserializador.cs",
+              "RelativeDocumentMoniker": "FrmDesserializador.cs",
+              "ToolTip": "D:\\Users\\marci\\source\\repos\\AulaWinFormsMDI\\FrmDesserializador.cs [Projeto]",
+              "RelativeToolTip": "FrmDesserializador.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:02:35.471Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
